@@ -1,0 +1,384 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#title {
+  background-image: url("title-background.gif");
+  background-size: 1920px;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  font-size: 64px;
+  height: 100%;
+  width: 100%;
+  color: #E4E2EA;
+}
+
+#tabtitl {
+  width: 100%;
+  background-color:rgba(0, 0, 0, 0.5);;
+  font-family: 'Karla', sans-serif;
+}
+
+#left1 {
+  float: left;
+  width: 50%;
+  height: 70%;
+  font-size: 32px;
+  background-color: #850D18;
+  color: #E4E2EA;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#right1 {
+  float: right;
+  text-align: right;
+  width: 50%;
+  height: 70%;
+  font-size: 24px;
+  background-color: #850D18;
+  color: #E4E2EA;
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+#left2 {
+  background-color: #2D5D85;
+  float: left;
+  width: 60%;
+  height: 89%;
+  font-size: 32px;
+  padding-top: 50px;
+  color: #E4E2EA;
+  text-align: left;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#right2 {
+  background-color: #2D5D85;
+  float: right;
+  text-align: right;
+  width: 40%;
+  height: 96.2%;
+  font-size: 24px;
+  color: #E4E2EA;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#left3 {
+  width: 50%;
+  height: 65%;
+  background-color: #937889;
+  color: #E4E2EA;
+  float: left;
+  font-size: 32px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#right3 {
+  float: right; 
+  background-color: #937889;
+  height: 65%;
+  width: 50%;
+  color: #E4E2EA;
+  font-size: 32px;
+  text-align: right;
+  font-family: 'Barlow', sans-serif;
+}
+
+#left4 {
+  float: left;
+  width: 50%;
+  height: 80%;
+  font-size: 32px;
+  background-color: #859CBF;
+  color: #E4E2EA;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#right4 {
+  float: right;
+  width: 50%;
+  height: 80%;
+  background-color: #859CBF;
+  color: #E4E2EA;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#center1 {
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#simpsonimg {
+  width: 50px;
+  height: 100px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#futureimg {
+  border-width: 5px;
+  border-style: inset;
+  margin-left: 60px;
+  margin-top: 20px;
+  text-align: right;
+  float: right;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#navbar {
+  font-family: 'Varela Round', sans-serif;
+  border: 5px;
+  border-style: inset;
+  font-weight: center;
+  font-size: 32px;
+  margin-left: 250px;
+  height: 10%;
+  padding: 10px;
+}
+
+#tabll1 {
+  text-align: right;
+  float: right;
+  width: 40%;
+  height: 100px;
+  margin-right: 100px;
+  font-family: 'Varela Round', sans-serif;
+  border-style: inset;
+}
+
+#tabl2 {
+  border: 5px;
+  border-style: inset;
+  margin-right: 100px;
+  float: right;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#tabl3 {
+  border: 5px;
+  border-style: inset;
+  margin-left: 200px;
+  float: right;
+  text-align: right;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#tabll4 {
+  float: right;
+  font-size: 32px;
+  background-color: #859CBF;
+  color: #bab4c9;
+  border-style: inset;
+  border-width: 5px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#threattabl {
+  border-left-style: solid;
+  border-color: #2D5D85;
+  font-size: 24px;
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+  width: 100%;
+}
+
+#row1 {
+  color: #011B2F;
+  background-color: rgb(211,211,211);
+}
+
+#row2 {
+  color: #2D5D85; 
+  background-color: rgb(211,211,211);
+}
+
+#row3 {
+  color: #859CBF;
+  background-color: rgb(211,211,211);
+}
+
+#row4 {
+  color: #bab4c9;
+  background-color: rgb(211,211,211);
+}
+
+#row5 {
+  color: #937889;
+  background-color: rgb(211,211,211);
+}
+
+#row6 {
+  color: #850D18;
+  background-color: rgb(211,211,211);
+}
+
+#row1-2 {
+  color: #011B2F;
+  background-color: rgba(211,211,211,.5);
+}
+
+#row2-2{
+  color: #2D5D85;
+  background-color: rgba(211,211,211,.5);
+}
+
+#row3-2 {
+  color: #859CBF;
+  background-color: rgba(211,211,211,.5);
+}
+
+#row4-2 {
+  color: #bab4c9;
+  background-color: rgba(211,211,211,.5);
+}
+
+#row5-2 {
+  color: #937889;
+  background-color: rgba(211,211,211,.5);
+}
+
+#row6-2 {
+  color: #850D18;
+  background-color: rgba(211,211,211,.5);
+}
+
+.row1-3 {
+  background-color: #011B2F;
+  color: #011B2F;
+}
+
+.row2-3 {
+  background-color: #2D5D85;
+  color: #2D5D85;
+}
+
+.row3-3 {
+  background-color: #859CBF;
+  color: #859CBF;
+}
+
+.row4-3 {
+  background-color: #bab4c9;
+  color: #bab4c9; 
+}
+
+.row5-3 {
+  background-color: #937889;
+  color: #937889;
+}
+
+.row6-3 {
+  background-color: #850D18;
+  color: #850D18;
+}
+
+#table-background {
+  background-color: #850D18;
+}
+
+#tablbg1 {
+  background-color: rgb(1,27,47)
+}
+
+#tablbg2 {
+  background-color: #2D5D85;
+}
+
+#tablbg3 {
+  background-color: #859CBF;
+}
+
+#tablbg4 {
+  background-color: #bab4c9;
+}
+
+#tablbg5 {
+  background-color: #937889;
+}
+
+#tablbg6 {
+  background-color: #850D18;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#left5 {
+  float: left;
+  font-size: 32px;
+  background-color: #bab4c9;
+  color: white;
+  width: 50%;
+  height: 40%;
+  font-family: 'Varela Round', sans-serif;  
+  background: #bab4c9;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: #bab4c9;}
+  to {background-color: #937889;}
+}
+
+#right5 {
+  float: right;
+  font-size: 24px;
+  background-color: #bab4c9;
+  color: white;
+  width: 50%;
+  height: 40%; 
+  background: #bab4c9;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: #bab4c9;}
+  to {background-color: #937889;}
+}
+
+.inset {
+  border-style: inset;
+  font-size: 32px;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: 'Varela Round', sans-serif;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #859CBF;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Varela Round', sans-serif;
+}
+
+input[type=submit]:hover {
+  background-color: #859CBF;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#output {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#summary {
+  font-size: 32px;
+  font-family: 'Varela Round', sans-serif;
+}
