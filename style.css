@@ -4,7 +4,7 @@ html, body {
 }
 
 #title {
-  background-image: url("title-background.gif");
+  background-image: url("imgs/title-background.gif");
   background-size: 1920px;
   font-family: 'Fredoka One', cursive;
   text-align: center;
